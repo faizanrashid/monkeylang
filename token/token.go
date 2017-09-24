@@ -1,8 +1,6 @@
 // Package token defines our Token struct and our TokenType.
 package token
 
-import ()
-
 const (
 	ILLEGAL = "ILLEGAL"
 	EOF     = "EOF"
